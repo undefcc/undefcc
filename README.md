@@ -46,14 +46,6 @@
 </div>
 ---
 
-### **Activity Graph**
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=undefcc&theme=minimal&hide_border=true&area=true&bg_color=00000000&color=2196F3&text_color=2196F3&point=2196F3" />
-</div>
-
----
-
 ### **Achievements**
 
 <div align="center">
