@@ -46,26 +46,6 @@
 </div>
 ---
 
-### **Achievements**
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=undefcc&theme=flat&no-bg=true&no-frame=true&row=1&column=6&title_color=2196F3&icon_color=2196F3&margin-w=10" />
-</div>
-
----
-
-### **Connect With Me**
-
-<!-- <div align="center">
-
-[![Contact](https://img.shields.io/badge/Contact_Service-FF5722?style=for-the-badge&logo=web&logoColor=white)](http://undefcc.id.vn/contact)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/undefcc)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:undefcc.business@gmail.com)
-
-</div> -->
-
----
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=fadeIn" />
   
