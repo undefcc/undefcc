@@ -1,5 +1,6 @@
-<div align="center">
 最新仓库已迁移到 https://github.com/ccbit8
+<div align="center">
+  
 # **Hexc** (Hexc)
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=IT+Support;Technical+Support;Troubleshooting;Hardware+%26+Software+Maintenance;Problem+Solver;Always+Learning+New+Skills" alt="Typing SVG" /><img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake eating commits" />
@@ -35,10 +36,10 @@
 
 ### **GitHub Stats**
 
-<div align="center">
+<!-- <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=undefcc&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=true&text_color=2196F3&icon_color=2196F3"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=undefcc&layout=compact&langs_count=8&theme=transparent&hide_border=true&text_color=2196F3&icon_color=2196F3"/>
-</div>
+</div> -->
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=undefcc&theme=transparent&hide_border=true&text_color=2196F3&sideNums=2196F3&sideLabels=2196F3" alt="GitHub Streak" />
