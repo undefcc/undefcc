@@ -44,24 +44,6 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=undefcc&theme=transparent&hide_border=true&text_color=2196F3&sideNums=2196F3&sideLabels=2196F3" alt="GitHub Streak" />
 </div>
-
----
-
-### **Featured Projects**
-
-<!-- <div align="center">
-
-| **Project** | **Description** | **Tech Stack** | **Website** |
-|---|---|---|---|
-| [**checklist_niso**](https://github.com/undefcc/checklist_niso) | Internal Checklist application with friendly interface | React, Node.js, MongoDB | [<a href="https://css.niso.com.vn:3008/" target="_blank" rel="noopener noreferrer">Demo</a>] |
-| [**css_niso**](https://github.com/undefcc/css_niso) | Multi-brand survey collection and management system | Express, MSSQL, Ant Design | [<a href="https://css.niso.com.vn:3008/" target="_blank" rel="noopener noreferrer">Demo</a>] |
-| [**maycha_checklist**](https://github.com/undefcc/maycha_checklist) | Automatic check list and voucher management system | Node.js, React, Firebase | [<a href="https://checklist.tamhao.com.vn/" target="_blank" rel="noopener noreferrer">Demo</a>] |
-| [**report_niso**](https://github.com/undefcc/report_niso) | Smart risk reporting system | Python, JavaScript, MongoDB | [<a href="https://report.niso.com.vn:3000/" target="_blank" rel="noopener noreferrer">Demo</a>] |
-| [**lucky_draw**](https://github.com/undefcc/lucky_draw) | Lucky draw application with beautiful effects | React, CSS Animation | — |
-| [**vietinbank_api**](https://github.com/undefcc/vietinbank_api) | API integration for Vietinbank | Node.js, Express, REST API | — |
-
-</div> -->
-
 ---
 
 ### **Activity Graph**
