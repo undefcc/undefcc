@@ -1,4 +1,3 @@
-最新仓库已迁移到 https://github.com/ccbit8
 <div align="center">
   
 # **Hexc** (Hexc)
